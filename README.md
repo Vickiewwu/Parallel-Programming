@@ -1,2 +1,2 @@
 # Parallel-Programming
-2023 fall NTHU Parallel Programming course
+2023 fall Parallel Programming course
